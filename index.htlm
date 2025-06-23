@@ -1,0 +1,39 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Macro Sensi 🔥</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      background: linear-gradient(135deg, #000000, #0a0a23);
+      color: #0ff;
+      overflow-x: hidden;
+    }
+    header {
+      background: url('https://i.ibb.co/3rKgQmM/mask-oni.gif') center/cover no-repeat;
+      height: 200px;
+      text-align: center;
+      color: cyan;
+      text-shadow: 0 0 10px #0ff;
+    }
+    h1 {
+      margin: 0;
+      padding: 50px 0 10px;
+      font-size: 32px;
+    }
+    .section {
+      padding: 20px;
+      border-bottom: 2px solid #0ff;
+    }
+    select, input, button {
+      display: block;
+      margin: 10px 0;
+      padding: 10px;
+      width: 100%;
+      max-width: 300px;
+      background: #111;
+      border: 1px solid #0ff;
+      color: #0ff;
